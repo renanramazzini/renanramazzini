@@ -2,7 +2,7 @@
 
 <div align="left"> 
   <h3>About me:</h3> 
-  <p>My name's Renan de Souza Ramazzini, I'm a flutter developer and student at Fatec Americana(Analysis and systems development).</p>
+  <p>My name's Renan de Souza Ramazzini, I'm a <strong>flutter developer and student</strong> at Fatec Americana(Analysis and systems development).</p>
 </div>
 
 <div align="left">
