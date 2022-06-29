@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./flutter_brand.png" width="400px" align="right" alt="Flutter Brand">
 
 <div align="left"> 
-  <h3>About me:</h3> 
-  <p>My name's Renan de Souza Ramazzini, I'm a <strong>flutter developer and student</strong> at Fatec Americana(Analysis and systems development).</p>
+  <h3>Hello World!</h3> 
+  <p>My name's Renan de Souza Ramazzini, I'm a <strong>flutter developer and student</strong> at Fatec Americana (Analysis and systems development).</p>
 </div>
 
 <div align="left">
@@ -24,4 +24,3 @@
   [![GitHub Renan]( https://img.shields.io/github/followers/renanramazzini?label=follow&style=social)](https://github.com/renanramazzini)
 
 </div>  
-
