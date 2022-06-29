@@ -21,7 +21,7 @@
   
   [![Linkedin: Renan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-ramazzini/)](https://www.linkedin.com/in/renan-ramazzini/)
   [![Gmail Badge](https://img.shields.io/badge/-renansouzzini@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renansouzzini@hotmail.com)](mailto:renansouzzini@hotmail.com)
-  [![GitHub Renan]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/renanramazzini)
+  [![GitHub Renan]( https://img.shields.io/github/followers/renanramazzini?label=follow&style=social)](https://github.com/renanramazzini)
 
 </div>  
 
